@@ -1,0 +1,440 @@
+.Home-hover{
+    color: white;
+    font-size: 20px;
+}
+
+a.Home-hover:hover{
+    
+    color:red;
+    transition: 0.5s linear;
+}
+
+.Shop-hover{
+    color: white;
+    font-size: 20px;
+    
+    
+
+}
+
+a.Shop-hover:hover{
+    color:red;
+    transition: 0.5s linear;
+
+}
+
+.Category-hover{
+    font-size: 20px;
+    color:#ffffff;
+
+
+}
+
+a.Category-hover:hover{
+    color:red;
+    transition: 0.5s linear;
+
+
+}
+
+
+.about-hover{
+    font-size: 20px;
+    color:#ffffff;     
+
+
+}
+
+a.about-hover:hover{
+    color: red;
+    transition: 0.5s linear;
+}
+
+.box1-image{
+    background-image: url(nike-shoe1.jpg);
+    opacity: 0.5;
+    transition: 0.4s all ease;
+
+
+}
+div.box1-image:hover{
+    opacity: 1;
+    transition: 0.5s linear;
+    
+}
+
+.buynowglow1{
+
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    
+
+}
+
+a.buynowglow1:hover{
+    color:rgb(153, 255, 0);    
+    transition: 0.3s linear;
+
+}
+
+.log-inbox{   
+    background-color: white;
+    height:600px;
+    width: 1300px;
+    position: relative;
+    left:110px;
+    top:50px;
+    border-radius: 30px;
+    box-shadow:
+  3px 2.8px 3.2px -10px rgba(0, 0, 0, 0.039),
+  7.2px 6.7px 7.6px -10px rgba(0, 0, 0, 0.057),
+  13.6px 12.5px 14.3px -10px rgba(0, 0, 0, 0.07),
+  24.3px 22.3px 25.5px -10px rgba(0, 0, 0, 0.083),
+  45.5px 41.8px 47.6px -10px rgba(0, 0, 0, 0.101),
+  109px 100px 114px -10px rgba(0, 0, 0, 0.14);
+
+    
+    
+}
+
+.welcome-section{
+    background-image: url(abstract_final.png);
+    background-size: cover;
+    max-height: max-content;
+    height: 700px; 
+    scale: 0.86;
+    position: relative;
+    bottom:51px;
+    right:92px;
+    border-radius: 30px;
+    
+    
+}
+
+.actuallogin{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    left:800px;
+    font-size: 25px;
+}
+ 
+.username{
+    position:absolute;
+    top:100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    left:750px
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+ 
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 21px;
+  }
+
+
+  
+.password{
+    position:absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    top:220px;
+    left:750px;
+}
+
+input[type=button] {
+    padding: 10px 35px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+  }
+
+.loginbutton{
+    position: absolute;
+    top:385px;
+    left:895px;
+    border-radius: 2px;
+   
+
+
+}  
+
+.buttonsize{
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 10px 40px 10px;
+    border: 0px;
+    color:white ;
+    background-color: black;
+    transition: all 0.5s ease;
+}
+
+input.buttonsize:hover{
+    background-color: rgb(55, 81, 253);
+    transition: 0.5s linear;
+    transform: scale(1.05);
+
+
+
+
+}
+
+
+.box{
+    transition: all 0.5s ease;
+    border-radius: 5px;
+    
+}
+
+input.box:hover{
+    border-color: rgb(255, 255, 255);
+    transition: 0.5s linear;
+    background-color: rgb(247, 247, 247);
+}
+
+.donthaveanaccount{
+    position:absolute;
+    top:310px;
+    left:750px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.lmao{
+    background-image: url(abstract_final.png);
+    background-size: cover;
+    max-height: max-content;
+    height: 700px; 
+    scale: 0.86;
+    position: relative;
+    bottom:50px;
+    left:145px;
+    
+    
+    border-radius: 30px;
+    
+}
+
+
+.signin{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    font-size: 25px;
+    bottom:600px;
+
+}
+
+.s-username{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top:50px;
+    
+    
+    
+}
+
+.textbox{
+    position: absolute;
+    top:100px;
+    right:100px;
+}
+
+.signinuser{
+    position: absolute;
+    left:100px;
+}
+
+.username-signin{
+    position: absolute;
+    left:600px;
+    font-size:20px;
+    top:80px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+
+}
+
+.username-text{
+    position: absolute;
+    top:93px;
+    left:800px;
+    
+}
+
+.password-signin{
+    position: absolute;
+    left:600px;
+    font-size:20px;
+    top:131px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.password-box{
+    position: absolute;
+    top:146px;
+    left:800px;
+    
+}
+
+.emailsignin
+{
+    position: absolute;
+    left:600px;
+    font-size:20px;
+    top:181px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+.emailbox{
+    position: absolute;
+    top:197px;
+    left:800px; 
+    font-size: 5px;
+    
+}
+
+.dob{
+    position: absolute;
+    left:600px;
+    font-size:20px;
+    top:232px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.dob-box{
+    position: absolute;
+    top:250px;
+    left:800px; 
+    
+}
+
+.gender{
+    position: absolute;
+    left:600px;
+    font-size:20px;
+    top:282px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.gendercheckbox{
+    position: absolute;
+    top:308px;
+    left:800px;  
+}
+
+.googleicons{
+    position: absolute;
+    left:825px;
+    bottom:600px;
+    top:320px;
+    transform: scale(1.5);
+    transition: all 0.5s ease-out;
+    
+    
+}
+
+div.googleicons:hover{
+    transform: scale(2.3);
+    transition: 0.3s linear;   
+}
+
+.facebookicon{
+    position: absolute;
+    left:880px;
+    bottom:600px;
+    top:320px;
+    transform: scale(1.5);
+    transition: all 0.5s ease-out;  
+}
+
+div.facebookicon:hover{
+    transform: scale(2.3);
+    transition: 0.3s linear;  
+}
+
+.twittericon{
+    position: absolute;
+    left:935px;
+    bottom:600px;
+    top:320px;
+    transform: scale(1.5);
+    transition: all 0.5s ease-out;
+}
+
+div.twittericon:hover{
+    transform: scale(2.3);
+    transition: 0.3s linear; 
+}
+
+
+.signupbutton{
+    position: absolute;
+    left:821px;
+    top:370px;
+    
+}
+
+.lol{
+    font-size: 21px;
+    border-radius: 30px;
+    padding: 10px 40px 10px;
+    border: 0px;
+    color:white ;
+    background-color: black;
+    transition: all 0.5s ease;
+}
+
+input.lol:hover{
+    background-color: blue;
+    transition: 0.5s linear;
+    transform: scale(1.05);
+
+}
+
+input{
+    background-color: rgb(220, 220, 220);
+    border:0px;
+    transition: all 0.5s ease;
+}
+
+input:hover{
+    background-color: white;
+    transform: scale(1.05);
+    transition: 0.5s linear;
+    
+    
+    
+}
+
+
+
+
+
+  
+   
+    
+    
+    
+
+
+
+
+

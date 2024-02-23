@@ -1,0 +1,36 @@
+.sidebox{
+    height: 550px;
+    width: 400px;
+}
+
+.shoe1{
+    position: absolute;
+    left:22px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    
+}
+.free-del{
+    position: absolute;
+    top:35px;
+    left:22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px; 
+    color: rgb(22, 162, 162);    
+
+}
+
+
+.similar1{
+    text-decoration: none;
+    color: rgb(23, 173, 173);
+    position:absolute;
+    left:700px;
+    right:800px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+
+
+}
