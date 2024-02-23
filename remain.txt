@@ -1,0 +1,2 @@
+<div><a href="#" style="color: white;font-size: 20px;display: block;padding:15px 22px;border-radius: 20px;text-decoration: none;">Categories</a></div>
+                <div><a href="#" style="color: white;font-size: 20px;display: block;padding:3px 22px;border-radius: 20px;text-decoration: none;">Aboutus</a></div>
